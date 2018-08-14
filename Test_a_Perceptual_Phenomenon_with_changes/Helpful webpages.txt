@@ -1,0 +1,4 @@
+List of webpages used for analysis
+1. Stackoverflow
+2. https://pandas.pydata.org
+3.https://datasciencelab.wordpress.com/
